@@ -1,0 +1,69 @@
+1679168038426	geckodriver	INFO	Listening on 127.0.0.1:60056
+1679168185218	geckodriver	INFO	Listening on 127.0.0.1:60114
+1679168188264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile8djI7A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679168188643	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679168188649	Marionette	INFO	Listening on port 60129
+Read port: 60129
+WebDriver BiDi listening on ws://127.0.0.1:60115
+1679168188774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile8djI7A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60115/devtools/browser/5c1160f1-7158-4e43-8ae1-2cb8b4e5254d
+1679168219198	geckodriver	INFO	Listening on 127.0.0.1:60182
+1679168222230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileGRWEPh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679168222600	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679168222605	Marionette	INFO	Listening on port 60192
+Read port: 60192
+WebDriver BiDi listening on ws://127.0.0.1:60183
+1679168222749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileGRWEPh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60183/devtools/browser/23863e96-f26c-4290-be11-16750e9fa5ba
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680014287480	geckodriver	INFO	Listening on 127.0.0.1:64271
+1680014483928	geckodriver	INFO	Listening on 127.0.0.1:64581
+1680014638348	geckodriver	INFO	Listening on 127.0.0.1:64867
+1680014641484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofilemh5vYd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680014641877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680014641883	Marionette	INFO	Listening on port 64876
+Read port: 64876
+WebDriver BiDi listening on ws://127.0.0.1:64868
+1680014642030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofilemh5vYd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64868/devtools/browser/e114b122-f7d8-4354-af33-1c2bd02859d2
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1680031532498	geckodriver	INFO	Listening on 127.0.0.1:62748
+1680031535522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile7tCOX3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680031535932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680031535937	Marionette	INFO	Listening on port 62760
+Read port: 62760
+WebDriver BiDi listening on ws://127.0.0.1:62749
+1680031536059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofile7tCOX3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62749/devtools/browser/e700a826-592b-4919-9068-ff65eb07fd9d
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680031795891	geckodriver	INFO	Listening on 127.0.0.1:63183
+1680031798912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileSXN6DJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680031799317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680031799322	Marionette	INFO	Listening on port 63199
+Read port: 63199
+WebDriver BiDi listening on ws://127.0.0.1:63184
+1680031799459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\karma\\AppData\\Local\\Temp\\rust_mozprofileSXN6DJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63184/devtools/browser/28be89d3-45b3-41a3-8e25-d4e3060f429c
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed

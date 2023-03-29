@@ -1,2 +1,4 @@
 venv/
 chromedriver.exe
+geckodriver.exe
+.env
